@@ -48,6 +48,7 @@ https://www.kaggle.com/datasets/usdot/flight-delays
 Flights with missing arrival delay values were identified and removed to ensure accurate delay analysis.
 
 📈 Key Analyses Performed
+
 The following analyses were conducted using SQL queries:
 
 1️⃣ Total Flights per Airline
@@ -90,28 +91,40 @@ Identifies major airline hub airports based on flight departures.
 
 The analysis revealed several important patterns:
 
--A small number of airlines operate the majority of flights.
--Certain airports act as major airline hubs.
--Some routes experience extremely high traffic volumes.
--Airline delay performance varies significantly across airlines.
--Seasonal factors influence flight delay patterns.
+A small number of airlines operate the majority of flights.
+
+Certain airports act as major airline hubs.
+
+Some routes experience extremely high traffic volumes.
+
+Airline delay performance varies significantly across airlines.
+
+Seasonal factors influence flight delay patterns.
 
 💡 Business Recommendations
 
 Based on the findings:
 
--Airlines with higher delays should review scheduling efficiency.
--Airports with heavy congestion may require improved traffic management.
--Airlines can optimize resources during months with higher delays.
--High-demand routes should receive additional operational support.
+Airlines with higher delays should review scheduling efficiency.
+
+Airports with heavy congestion may require improved traffic management.
+
+Airlines can optimize resources during months with higher delays.
+
+High-demand routes should receive additional operational support.
 
 🧠 Skills Demonstrated
 
 This project demonstrates the following data analysis skills:
 
--SQL Data Cleaning
--SQL Joins
--Aggregations using GROUP BY
--Window Functions (RANK)
--Large Dataset Analysis
--Business Insight Generation
+SQL Data Cleaning
+
+SQL Joins
+
+Aggregations using GROUP BY
+
+Window Functions (RANK)
+
+Large Dataset Analysis
+
+Business Insight Generation
